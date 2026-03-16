@@ -44,7 +44,7 @@ Explanation:
 
 The screenshot below shows Docker volumes and images available on the system.
 
-![docker_volume_images](Images/docker_volume_images.png)
+![docker_volume_images](Image/docker_volume_images.png)
 
 ---
 
@@ -60,7 +60,7 @@ http://<server-ip>:8081
 
 browser access:
 
-![access_volueme](Imges/access_volueme.png) 
+![access_volueme](Image/access_volueme.png) 
 
 
 ---
