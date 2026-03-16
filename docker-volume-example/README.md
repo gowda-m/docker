@@ -31,10 +31,6 @@ Run an nginx container and attach the created volume:
 docker run -d -p 8081:80 -v mydata:/usr/share/nginx/html --name nginx-volume nginx
 ```
 
-Explanation:
-
-- `-d` → Run container in detached mode  
-- `-p 8081:80` → Map host port **8081** to container port **80**  
 - `-v mydata:/usr/share/nginx/html` → Mount Docker volume  
 - `--name nginx-volume` → Assign container name  
 
