@@ -13,7 +13,7 @@ It helps administrators troubleshoot application startup issues and monitor cont
 docker logs web_my-nginx
 docker logs -f web_my-nginx
 
-![docker_logs](Images/docker_logs.png) 
+![docker_logs](Imges/docker_logs.png)
 
 Access Container & Inspect Configuration
 
@@ -25,7 +25,7 @@ The docker inspect command provides detailed JSON information about a container 
 docker exec -it web_my-nginx /bin/bash
 docker inspect web_my-nginx
 
-![docker_exec_docker_inspect](Images/docker_exec_docker_inspect.png) 
+![docker_exec_docker_inspect](Imges/docker_exec_docker_inspect.png) 
 
 
 Stop Running Container
@@ -35,7 +35,7 @@ Docker sends a SIGTERM signal allowing the application to shut down properly.
 
 docker stop web_my-nginx
 
-![stop](Images/stop.png) 
+![stop](Imges/stop.png)
 
 ```
 
