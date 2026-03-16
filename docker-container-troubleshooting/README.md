@@ -15,7 +15,9 @@ docker logs -f web_my-nginx
 
 ![docker_logs](Imges/docker_logs.png)
 
-Access Container & Inspect Configuration
+```
+
+**Access Container & Inspect Configuration**
 
 The docker exec command allows users to enter a running container and execute commands inside it.
 This is useful for checking files, logs, or running diagnostics inside the container.
@@ -25,23 +27,31 @@ The docker inspect command provides detailed JSON information about a container 
 docker exec -it web_my-nginx /bin/bash
 docker inspect web_my-nginx
 
+```
+
 ![docker_exec_docker_inspect](Imges/docker_exec_docker_inspect.png) 
 
 
-Stop Running Container
+```
+**Stop Running Container**
 
 The docker stop command gracefully stops a running container.
 Docker sends a SIGTERM signal allowing the application to shut down properly.
 
 docker stop web_my-nginx
 
-![stop](Imges/stop.png)
+```
+
+![stop](Imges/stop.png) 
 
 ```
 
-Commands Summary
+**Commands Summary**
+
 docker ps
 docker logs web_my-nginx
 docker exec -it web_my-nginx /bin/bash
 docker inspect web_my-nginx
 docker stop web_my-nginx
+
+```
