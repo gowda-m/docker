@@ -87,7 +87,7 @@ Nginx serves content from:
 ./html → /usr/share/nginx/html
 ```
 
-![volume](Images/volume.png) 
+![volume](Images/volume2.png) 
 
 
 Any changes in `html/index.html` are reflected immediately.
