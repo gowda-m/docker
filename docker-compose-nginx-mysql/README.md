@@ -48,9 +48,11 @@ Verify:
 docker ps
 ```
 
+```
 
 ![docker_compuse](Images/docker_compuse.png)
 
+```
 
 ## Access
 
