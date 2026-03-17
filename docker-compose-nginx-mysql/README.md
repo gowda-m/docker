@@ -53,7 +53,6 @@ docker ps
 ![docker_compuse](Images/docker_compuse.png)
 
 ```
-
 ## Access
 
 Application is available at:
@@ -64,6 +63,8 @@ http://localhost:8082
 ```
 
 ![access_compuse](Imges/access_compuse.png)
+
+```
 
 ---
 
