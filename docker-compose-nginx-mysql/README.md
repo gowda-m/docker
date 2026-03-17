@@ -80,13 +80,15 @@ http://localhost:8082
 
 ## Static Content & volumes 
 
-![volume](Images/volume.png) 
 
 Nginx serves content from:
 
 ```
 ./html → /usr/share/nginx/html
 ```
+
+![volume](Images/volume.png) 
+
 
 Any changes in `html/index.html` are reflected immediately.
 
