@@ -74,6 +74,8 @@ http://localhost:8082
 
 ---
 
+```
+
 ## Static Content
 
 Nginx serves content from:
