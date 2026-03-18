@@ -30,23 +30,39 @@ docker run -d \
 ✔ CPU limited to 0.5 core
 ✔ Stress tool used to simulate load
 
-**Monitoring & Validation**
-Check Running Container
+# Monitoring & Validation
+
+**Check Running Container**
 ```
 docker ps
 ```
 ![start_run](Images/start_run.png)
 
 
-Monitor Resource Usage
+**Monitor Resource Usage**
 ```
 docker stats
 ```
+![usage](Images/usage.png) 
+
+**Inspect Resource Limits**
+
 ![size1](Images/size1.png) 
 
-Inspect Resource Limits
 ![size2](Images/size2.png) 
 
+
+**Inspect Resource Limits (Optional)**
 ```
 docker inspect stress-test
+```
+
+
+**This command provides detailed**
+```
+Memory limits
+
+CPU allocation
+
+Runtime settings
 ```
