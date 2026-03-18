@@ -1,16 +1,15 @@
 # Docker Resource Management (Production-Oriented)
-This project demonstrates how to apply and validate resource limits (CPU & Memory) on Docker containers in a real-time environment. Proper resource control is critical in multi-container systems to ensure stability, prevent resource exhaustion, and maintain predictable performance.
+This project demonstrates applying and validating CPU and memory limits on Docker containers to ensure stable performance and prevent resource exhaustion in multi-container environments.
 
 
 ----
 
 **Real-Time Use Case**
 ```
-In production environments, multiple containers run on the same host. Without limits:
-One container can consume all memory → OOM issues
-High CPU usage can degrade overall system performance
-Critical services may get impacted
-This project simulates and validates controlled resource allocation.
+Containers share the same host
+Without limits → memory & CPU issues
+Critical services may be impacted
+Demonstrates controlled resource usage
 ```
 
 # Implementation
