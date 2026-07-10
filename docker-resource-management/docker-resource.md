@@ -57,7 +57,7 @@ docker inspect stress-test
 ```
 
 
-**This command provides detailed**
+**This command give detailed**
 ```
 Memory limits
 
