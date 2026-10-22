@@ -1,14 +1,14 @@
 # Docker Resource Management
 
-This project shows how to apply CPU and memory limits on Docker containers and verify them using real-time monitoring.
+This project shows how to apply CPU and memory limits on Docker containers and verify them using real time monitoring.
 
 ---
 
-# Why Use Resource Limits?
+# Why need Use Resource Limits?
 
 Prevent one container from consuming all resources
 
-Avoid memory (OOM) and CPU issues
+Avoid memory and CPU issues
 
 Protect critical services
 
