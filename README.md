@@ -38,7 +38,7 @@ The projects demonstrate:
 ---
 
 ### 4. Docker Compose (Nginx + MySQL)
-- Multi-container setup using Docker Compose
+- Multi container setup using Docker Compose
 - Default networking between services
 - Data persistence using named volumes
 
