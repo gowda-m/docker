@@ -65,18 +65,10 @@ http://localhost:8082
 
 ![access_compuse](Images/access_compuse.png)
 
-```
-
----
-
 ## Data Persistence
 
 - MySQL data is stored using a named volume (`db_data`)
 - Ensures data is retained across container restarts
-
----
-
-```
 
 ## Static Content & volumes 
 
