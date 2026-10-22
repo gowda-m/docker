@@ -1,6 +1,6 @@
 # Docker Nginx Container
 
-This project demonstrates running an Nginx web server inside a Docker container using a custom Dockerfile.
+This project demonstrates running Nginx web server inside a Docker container using a custom Dockerfile.
 
 ---
 
