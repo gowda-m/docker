@@ -82,4 +82,4 @@ docker rmi <image_name>
 
 ## Purpose
 
-This repository is intended to showcase hands on Docker experience for system administration and deployment use cases.
+This repository is intended to showcase hands on Docker experience for system admin and deployment use case.
