@@ -1,6 +1,6 @@
 # Docker Projects
 
-This repository contains practical Docker implementations covering containerization, storage, troubleshooting, and multi-container setups.
+This rep contains practical Docker implementations covering containerization, storage, troubleshooting, and multi container setup.
 
 ---
 
@@ -18,13 +18,13 @@ The projects demonstrate:
 
 ## Projects Included
 
-### 1. Nginx Container
+### 1. Nginx Container build
 - Basic container deployment using Nginx
 - Custom HTML content served via container
 
 ---
 
-### 2. Docker Volumes
+### 2. Docker Volumes creations
 - Persistent storage using Docker volumes
 - Data retained across container restarts
 
