@@ -31,8 +31,8 @@ Run an nginx container and attach the created volume:
 docker run -d -p 8081:80 -v mydata:/usr/share/nginx/html --name nginx-volume nginx
 ```
 
-- `-v mydata:/usr/share/nginx/html` → Mount Docker volume  
-- `--name nginx-volume` → Assign container name  
+- `-v mydata:/usr/share/nginx/html` - Mount Docker volume  
+- `--name nginx-volume` - Assign container name  
 
 ---
 
