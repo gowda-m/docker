@@ -12,7 +12,7 @@ The projects demonstrate:
 - Building custom Docker images
 - Using volumes for persistent storage
 - Debugging and troubleshooting containers
-- Multi-container deployment using Docker Compose
+- Multi container deployment using Docker Compose
 
 ---
 
@@ -20,7 +20,7 @@ The projects demonstrate:
 
 ### 1. Nginx Container build
 - Basic container deployment using Nginx
-- Custom HTML content served via container
+- Custom HTML content served via container ID
 
 ---
 
