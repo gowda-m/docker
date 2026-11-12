@@ -76,7 +76,7 @@ docker rmi <image_name>
 
 - Docker Compose creates a default network for service communication
 - Volumes are used for persistence and data safety
-- Containers are lightweight and portable across environments
+- Containers are lightweight and portable across environments level
 
 ---
 
