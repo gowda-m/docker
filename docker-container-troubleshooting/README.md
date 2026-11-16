@@ -38,7 +38,7 @@ docker inspect web_my-nginx
 
 **Stop Running Container**
 
-The docker stop command gracefully stops a running container.
+The docker stop command gracefully stops a running containers.
 Docker sends a SIGTERM signal allowing the application to shut down properly.
 
 
