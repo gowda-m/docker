@@ -1,6 +1,6 @@
 # Docker Projects
 
-This rep contains practical Docker implementations covering containerization, storage, troubleshooting, and multi container setup.
+This repository contains practical Docker implementations covering containerization, storage, troubleshooting, and multi container.
 
 ---
 
